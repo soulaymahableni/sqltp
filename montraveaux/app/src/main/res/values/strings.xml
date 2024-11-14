@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mon traveaux</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_signupactivity">signupactivity</string>
+    <string name="title_activity_resetpasswordscreen">resetpasswordscreenActivity</string>
+    <string name="title_activity_loginscreen">loginscreenActivity</string>
+</resources>
